@@ -1,4 +1,3 @@
-# manektechtask
 
 A new Flutter application.
 
